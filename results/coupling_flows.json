@@ -1,0 +1,74 @@
+[
+  {
+    "dataset": "two_moons",
+    "model": "RealNVP (coupling)",
+    "nll": 1.6728558540344238,
+    "train_s": 133.24830550000024,
+    "sample_ms": 116.33033999987674,
+    "params": 208944
+  },
+  {
+    "dataset": "two_moons",
+    "model": "MAF (autoregressive)",
+    "nll": 1.7067748308181763,
+    "train_s": 72.66645285999994,
+    "sample_ms": 124.27626999988206,
+    "params": 104472
+  },
+  {
+    "dataset": "two_moons",
+    "model": "Glow-style",
+    "nll": 1.6959246397018433,
+    "train_s": 163.6823689859998,
+    "sample_ms": 204.73359700008587,
+    "params": 209112
+  },
+  {
+    "dataset": "eight_gaussians",
+    "model": "RealNVP (coupling)",
+    "nll": 1.3032439947128296,
+    "train_s": 128.34442015600007,
+    "sample_ms": 130.47130199993262,
+    "params": 208944
+  },
+  {
+    "dataset": "eight_gaussians",
+    "model": "MAF (autoregressive)",
+    "nll": 1.5891008377075195,
+    "train_s": 68.91497412300032,
+    "sample_ms": 133.750862999932,
+    "params": 104472
+  },
+  {
+    "dataset": "eight_gaussians",
+    "model": "Glow-style",
+    "nll": 1.394103765487671,
+    "train_s": 173.11355595299983,
+    "sample_ms": 186.37112700025682,
+    "params": 209112
+  },
+  {
+    "dataset": "checkerboard",
+    "model": "RealNVP (coupling)",
+    "nll": 2.722203016281128,
+    "train_s": 126.51613665400009,
+    "sample_ms": 126.22420300021986,
+    "params": 208944
+  },
+  {
+    "dataset": "checkerboard",
+    "model": "MAF (autoregressive)",
+    "nll": 2.8041024208068848,
+    "train_s": 70.05822264100016,
+    "sample_ms": 160.22509899994475,
+    "params": 104472
+  },
+  {
+    "dataset": "checkerboard",
+    "model": "Glow-style",
+    "nll": 2.723484516143799,
+    "train_s": 171.6177840780001,
+    "sample_ms": 136.48371300041617,
+    "params": 209112
+  }
+]

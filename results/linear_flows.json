@@ -1,0 +1,20 @@
+[
+  {
+    "flow": "Diagonal",
+    "nll": 3.382329225540161,
+    "params": 4,
+    "seconds": 2.659320396000112
+  },
+  {
+    "flow": "Triangular",
+    "nll": 3.2680163383483887,
+    "params": 8,
+    "seconds": 3.1322158039999977
+  },
+  {
+    "flow": "1x1 convolution (LU)",
+    "nll": 3.2720930576324463,
+    "params": 14,
+    "seconds": 3.5574714680001307
+  }
+]
